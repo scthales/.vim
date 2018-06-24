@@ -30,6 +30,8 @@ augroup END
 "Autocomplete C
 let g:ycm_confirm_extra_conf = 0
 
+"vim-slime
+let g:slime_target = "tmux"
 
 set tabstop=4
 inoremap jk <ESC>
