@@ -14,6 +14,12 @@ let g:tex_flavor='latex'
 let g:Tex_DefaultTargetFormat = 'pdf'
 let g:Tex_MultipleCompileFormats='pdf, aux'
 
+"Dicionario - PT BR
+"set spell spelllang=pt
+
+"ctrlp.vim
+set runtimepath^=~/.vim/bundle/ctrlp.vim
+
 "Configurações para C
 let g:C_UseTool_cmake ='yes'
 let g:C_UseTool_doxygen ='yes'
@@ -23,6 +29,7 @@ augroup project
 augroup END
 "Autocomplete C
 let g:ycm_confirm_extra_conf = 0
+
 
 set tabstop=4
 inoremap jk <ESC>
