@@ -1,0 +1,71 @@
+javaScriptComment: '' # Comment
+javaScriptLineComment: '' # Comment
+javaScriptCommentTodo: '' # Todo
+javaScriptSpecial: '' # Special
+javaScriptStringS: '' # String
+javaScriptStringD: '' # String
+javaScriptCharacter: '' # Character
+javaScriptSpecialCharacter: '' # javaScriptSpecial
+javaScriptNumber: '' # javaScriptValue
+javaScriptConditional: '' # Conditional
+javaScriptRepeat: '' # Repeat
+javaScriptBranch: '' # Conditional
+javaScriptOperator: '' # Operator
+javaScriptType: '' # Type
+javaScriptStatement: '' # Statement
+javaScriptFunction: '' # Function
+javaScriptBraces: 'orange' # Function
+javaScriptError: '' # Error
+javaScriptParensError: '' # Error
+javaScriptNull: '' # Keyword
+javaScriptBoolean: '' # Boolean
+javaScriptRegexpString: '' # String
+javaScriptIdentifier: '' # Identifier
+javaScriptLabel: '' # Label
+javaScriptException: '' # Exception
+javaScriptMessage: '' # Keyword
+javaScriptGlobal: '' # Keyword
+javaScriptMember: '' # Keyword
+javaScriptDeprecated: '' # Exception
+javaScriptReserved: '' # Keyword
+javaScriptDebug: '' # Debug
+javaScriptConstant: '' # Label
+jsBrackets: 'orange'
+jsClassBraces: '@jsBrackets'
+jsBraces: '@jsBrackets'
+jsObjectBraces: '@jsBrackets'
+jsParens: '@jsBrackets'
+jsObjectKey: 'blue_gray'
+jsFuncBraces: '@jsBrackets'
+jsFuncParens: '@jsBrackets'
+jsIfElseBraces: '@jsBrackets'
+jsFuncArgs: 'blue_gray'
+jsExtendsKeyword: 'yellow'
+jsArrowFunction: 'yellow'
+jsFunction: 'yellow'
+jsReturn: 'yellow'
+jsClassDefinition: 'normal_gray'
+jsClassProperty: 'normal_gray'
+jsClassKeyword: 'yellow'
+jsClassFuncName: 'normal_gray'
+jsFuncName: 'normal_gray'
+jsNull: 'red'
+jsStorageClass: 'br_yellow'
+jsObjectSeparator: 'yellow'
+jsObjectValue: 'blue_gray'
+jsExportDefault: 'blue_gray'
+jsRegexpCharClass: 'orange'
+jsTemplateBraces: 'orange'
+jsThis: 'blue_gray - b'
+jsFuncCall: 'normal_gray'
+jsObjectProp: 'normal_gray'
+jsConditional: 'yellow'
+jsVariableDef: 'blue_gray'
+jsFuncBlock: 'white'
+jsTry: 'yellow'
+jsCatch: '@jsTry'
+jsTryCatchBraces: 'orange'
+jsGlobalObjects: 'green'
+jsParen: 'blue_gray'
+jsParenCatch: '@jsParen'
+jsParenIfElse: '@jsParen'

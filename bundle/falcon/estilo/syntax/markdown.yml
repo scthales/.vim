@@ -1,0 +1,45 @@
+markdownH1: '' # htmlH1
+markdownH2: '' # htmlH2
+markdownH3: '' # htmlH3
+markdownH4: '' # htmlH4
+markdownH5: '' # htmlH5
+markdownH6: '' # htmlH6
+markdownHeadingRule: '' # markdownRule
+markdownHeadingDelimiter: '' # Delimiter
+markdownOrderedListMarker: '' # markdownListMarker
+markdownListMarker: '' # htmlTagName
+markdownBlockquote: '' # Comment
+markdownRule: '' # PreProc
+markdownLinkText: '' # htmlLink
+markdownIdDeclaration: '' # Typedef
+markdownId: '' # Type
+markdownAutomaticLink: '' # markdownUrl
+markdownUrl: '' # Float
+markdownUrlTitle: '' # String
+markdownIdDelimiter: '' # markdownLinkDelimiter
+markdownUrlDelimiter: '' # htmlTag
+markdownUrlTitleDelimiter: '' # Delimiter
+markdownItalic: '' # htmlItalic
+markdownBold: '' # htmlBold
+markdownBoldItalic: '' # htmlBoldItalic
+markdownCodeDelimiter: '' # Delimiter
+markdownEscape: '' # Special
+markdownError: '' # Error
+
+htmlH1: 'yellow'
+htmlH2: 'br_yellow'
+htmlH3: 'br_yellow'
+htmlH4: 'br_yellow'
+htmlH5: 'br_yellow'
+htmlH6: 'br_yellow'
+mkdLink: 'blue_gray - u'
+mkdURL: 'blue_gray - u'
+mkdInlineURL: '@mkdURL'
+mkdBold: '- - b'
+htmlBold: '- - b'
+mkdListItem: 'orange'
+htmlItalic: '- - i'
+
+# These are used when running Neovim health checks.
+healthSuccess: 'bg green'
+healthError: 'bg red'

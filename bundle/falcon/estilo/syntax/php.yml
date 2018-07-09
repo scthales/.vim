@@ -1,0 +1,57 @@
+phpConstant: '' # Constant
+phpCoreConstant: '' # Constant
+phpComment: '' # Comment
+phpCommentTitle: 'light_gray - i'
+phpDocTags: 'br_yellow - i' # PreProc
+phpDocCustomTags: 'br_blue' # Type
+phpException: '' # Exception
+phpBoolean: '' # Boolean
+phpStorageClass: 'orange' # StorageClass
+phpClasses: 'normal_gray - b'
+phpSCKeyword: '' # StorageClass
+phpFCKeyword: '' # Define
+phpStructure: 'blue_gray - b' # Structure
+phpStringSingle: '' # String
+phpStringDouble: '' # String
+phpBacktick: '' # String
+phpNumber: 'light_gray' # Number
+phpFloat: '@phpNumber' # Float
+phpMethod: 'normal_gray' # Function
+phpFunctions: 'br_yellow' # Function
+phpBaselib: '' # Function
+phpRepeat: 'yellow' # Repeat
+phpConditional: '' # Conditional
+phpLabel: '' # Label
+phpStatement: '' # Statement
+phpKeyword: 'yellow' # Statement
+phpType: 'white' # Type
+phpInclude: '' # Include
+phpDefine: '' # Define
+phpBackslashSequences: '' # SpecialChar
+phpBackslashDoubleQuote: '' # SpecialChar
+phpBackslashSingleQuote: '' # SpecialChar
+phpParent: '' # Delimiter
+phpBrackets: '' # Delimiter
+phpIdentifierConst: '' # Delimiter
+phpParentError: '' # Error
+phpOctalError: '' # Error
+phpInterpSimpleError: '' # Error
+phpInterpBogusDollarCurley: '' # Error
+phpInterpDollarCurly1: '' # Error
+phpInterpDollarCurly2: '' # Error
+phpInterpSimpleBracketsInner: '' # String
+phpInterpSimpleCurly: '' # Delimiter
+phpInterpVarname: '' # Identifier
+phpTodo: '' # Todo
+phpDocTodo: '' # Todo
+phpMemberSelector: 'light_gray' # Structure
+phpIntVar: '' # Identifier
+phpEnvVar: '' # Identifier
+phpOperator: 'orange' # Operator
+phpVarSelector: 'normal_gray' # Operator
+phpRelation: '' # Operator
+phpIdentifier: 'blue_gray' # Identifier
+phpIdentifierSimply: '' # Identifier
+phpStringDelimiter: 'normal_gray'
+phpSuperglobals: 'green'
+phpSpecialChar: 'green'

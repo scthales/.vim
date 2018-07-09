@@ -3,7 +3,7 @@ syntax on
 set background=dark
 "let g:solarized_termcolors=256
 set t_Co=256
-colorscheme PaperColor
+colorscheme falcon
 filetype plugin on
 filetype indent on
 set number
@@ -14,14 +14,9 @@ let g:tex_flavor='latex'
 let g:Tex_DefaultTargetFormat = 'pdf'
 let g:Tex_MultipleCompileFormats='pdf, aux'
 
-"Dicionario - PT BR
-"set spell spelllang=pt
-
-"ctrlp.vim
-set runtimepath^=~/.vim/bundle/ctrlp.vim
 
 "Configurações para C
-let g:C_UseTool_cmake ='yes'
+let g:C_UseTool_cmake ='not'
 let g:C_UseTool_doxygen ='yes'
 augroup project
 	autocmd!
@@ -29,9 +24,6 @@ augroup project
 augroup END
 "Autocomplete C
 let g:ycm_confirm_extra_conf = 0
-
-"vim-slime
-let g:slime_target = "tmux"
 
 set tabstop=4
 inoremap jk <ESC>
