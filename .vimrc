@@ -14,6 +14,8 @@ let g:tex_flavor='latex'
 let g:Tex_DefaultTargetFormat = 'pdf'
 let g:Tex_MultipleCompileFormats='pdf, aux'
 
+"VimSlime
+let g:slime_target = "tmux"
 
 "Configurações para C
 let g:C_UseTool_cmake ='not'
@@ -24,6 +26,9 @@ augroup project
 augroup END
 "Autocomplete C
 let g:ycm_confirm_extra_conf = 0
+
+"PythonHighlight
+let python_highlight_all = 1
 
 set tabstop=4
 inoremap jk <ESC>
