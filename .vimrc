@@ -25,7 +25,7 @@ augroup project
 	autocmd BufRead,BufNewFile *.h,*.c set filetype=c.doxygen
 augroup END
 "Autocomplete C
-let g:ycm_confirm_extra_conf = 0
+"let g:ycm_confirm_extra_conf = 0
 
 "PythonHighlight
 let python_highlight_all = 1
